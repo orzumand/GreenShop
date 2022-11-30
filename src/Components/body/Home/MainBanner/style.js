@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Banner = styled.div`
   display: flex;
@@ -75,5 +75,5 @@ Banner.Tekst = styled.div`
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  margin-top: 5px;
+  margin-top: 70px;
 `;
