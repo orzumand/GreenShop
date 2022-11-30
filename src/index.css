@@ -1,0 +1,14 @@
+@import 'antd/dist/antd.css';
+* {
+  font-family: Cera Pro;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  caret-color: white;
+}
+
+body {
+  
+  width: 1440px;
+  padding: 25px 120px;
+}
